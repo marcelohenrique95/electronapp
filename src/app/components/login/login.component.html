@@ -1,0 +1,25 @@
+<div class="auth-wrapper">
+  <div class="auth-content">
+    <div class="auth-bg">
+      <span class="r"></span>
+      <span class="r s"></span>
+      <span class="r s"></span>
+      <span class="r"></span>
+    </div>
+    <div class="card" >
+      <div class="card-body text-center">
+        <div class="mb-4">
+          <i class="feather icon-unlock auth-icon"></i>
+        </div>
+        <form id="formLogin" [formGroup]="loginUserForm">
+          <h3 class="mb-4">Chave de acesso</h3>
+          <div class="input-group mb-3">
+            <input class="form-control" formControlName="inputKey">
+          </div>
+          <button (click)="userLogin()" class="btn btn-primary mb-4" >Entrar</button>
+          <p class="mb-2 text-muted">Esqueceu a chave? <a>Recuperar chave</a></p>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>

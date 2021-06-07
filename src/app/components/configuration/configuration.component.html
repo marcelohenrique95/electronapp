@@ -1,0 +1,136 @@
+<div class="col-sm-12">
+  <h5 class="mt-4">EDI - Configurações</h5>
+  <hr>
+  <ngb-tabset type="pills">
+    <ngb-tab title="Configurar Proxy" class="mb-3">
+      <form [formGroup]="userProxyForm">
+        <ng-template ngbTabContent>
+          <div class="custom-control custom-checkbox">
+            <input type="checkbox" class="custom-control-input" id="customCheck1" formControlName="activeProxy"
+            (change)="onCheckChange($event)">
+            <label class="custom-control-label" for="customCheck1">Usar proxy</label>
+          </div>
+          <hr>
+          <div class="form-group row" *ngIf="activeProxy">
+            <label for="inputIpProxy" class="col-sm-2 col-form-label">IP do Proxy:</label>
+            <div class="col-sm-3">
+              <input mask="IP" class="form-control" id="inputIpProxy" formControlName="inputIpProxy">
+            </div>
+          </div>
+          <div class="form-group row" *ngIf="activeProxy">
+            <label for="inputPortProxy" class="col-sm-2 col-form-label">Porta do Proxy:</label>
+            <div class="col-sm-3">
+              <input mask="0000" class="form-control" id="inputPortProxy" formControlName="inputPortProxy">
+            </div>
+          </div>
+          <div class="form-group row" *ngIf="activeProxy">
+            <label for="inputUserProxy" class="col-sm-2 col-form-label">Usuário do Proxy:</label>
+            <div class="col-sm-3">
+              <input type="text" class="form-control" id="inputUserProxy" formControlName="inputUserProxy">
+            </div>
+          </div>
+          <div class="form-group row" *ngIf="activeProxy">
+            <label for="inputPassProxy" class="col-sm-2 col-form-label">Senha do Proxy:</label>
+            <div class="col-sm-3">
+              <input type="password" class="form-control" id="inputPassProxy" formControlName="inputPassProxy">
+            </div>
+          </div>
+          <br>
+          <div>
+            <button type="button" style="right: 90px;" (click)="configProxy()"
+            class="btn btn-danger"><i style="font-style: inherit;">Aplicar</i></button>
+            <button type="button" style="right: 90px;" class="btn btn-danger"><i style="font-style: inherit;">Cancelar</i></button>
+          </div>
+        </ng-template>
+      </form>
+      </ngb-tab>
+      <ngb-tab title="Configurar Caixa Postal">
+        <ng-template ngbTabContent>
+          <div class="row">
+            <div class="col-sm-12">
+              <app-card cardTitle="Adicionar caixa postal" [options]="false">
+                <form action="javascript:" class="form-inline" (ngSubmit)="includePostalBox()">
+                  <div class="form-group col-md-3">
+                    <input type="text" class="form-control mx-sm-2" id="InputCaixaPostal" placeholder="Caixa Postal" formControlName="inputCaixaPostal" />
+                  </div>
+                  <div class="form-group col-md-3">
+                    <input type="password" class="form-control mx-sm-2" id="InputPassword" placeholder="Senha" formControlName="inputPassword" />
+                  </div>
+                  <div class="form-group col-md-3">
+                    <button type="submit" style="right: 90px;" class="btn btn-danger"><i style="font-style: inherit;">Incluir</i></button>
+                  </div>
+                </form>
+              </app-card>
+            </div>
+          </div>
+          <br><br>
+          <app-card cardTitle="" [options]="false">
+            <div class="table-responsive">
+              <table class="table table-hover">
+                <thead>
+                  <tr>
+                    <th>CAIXA POSTAL</th>
+                    <th>TOTAL DE PARCEIROS</th>
+                    <th>PROCEDIMENTOS</th>
+                    <th>test1</th>
+                    <th>SINCRONIZAR</th>
+                    <th>REMOVER</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td><button (click)="remove()" style="justify-content: center;" class="btn-sm btn-icon btn-dark"><i class="feather icon-repeat"></i></button></td>
+                    <td><button (click)="syncronize()" class="btn-sm btn-icon btn-primary"><i class="feather icon-trash-2"></i></button></td>
+                  </tr>
+                </tbody>
+              </table>
+              <pagination-controls (pageChange)="paginaAtual = $event" previousLabel="Anterior"
+                style="text-align: center;" nextLabel="Próximo"></pagination-controls>
+            </div>
+          </app-card>
+        </ng-template>
+      </ngb-tab>
+      <ngb-tab title="Alterar senha">
+        <ng-template ngbTabContent>
+          <form [formGroup]="changePasswordForm">
+            <div class="col-sm-12">
+              <div class="form-group col-md-3">
+                <label for="inputNewPass">Nova senha</label>
+                <input type="text" class="form-control" formControlName="inputNewPass" />
+              </div>
+              <div class="form-group col-md-3">
+                <label for="inputNewPassRepeat">Confimar senha</label>
+                <input type="text" class="form-control" formControlName="inputNewPassRepeat" />
+              </div>
+              <div class="form-group col-md-3">
+                <button (click)="verifyLenght()" class="btn btn-success" id="sendFile">
+                  <i style="font-style: inherit;">Alterar</i>
+                </button>
+              </div>
+              <div class="row" *ngIf="showMsgLenght">
+                <strong style="align-items: center; color: crimson;">Senha deve conter no mínimo 5 dígitos*</strong>
+              </div>
+              <div class="row" *ngIf="showMsg">
+                <div class="col-xs-12">
+                  <p class="alert alert-success">
+                    <strong>Senha alterada com sucesso!</strong>
+                  </p>
+                </div>
+              </div>
+              <div class="row" *ngIf="showMsgError">
+                <div class="col-xs-12">
+                  <p class="alert alert-success">
+                    <strong>Senhas não são iguais!</strong>
+                  </p>
+                </div>
+              </div>
+            </div>
+          </form>
+        </ng-template>
+      </ngb-tab>
+    </ngb-tabset>
+  </div>

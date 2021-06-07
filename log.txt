@@ -1,0 +1,1447 @@
+[2021-04-12 17:56:50.985] [info]  -buscando registros- entityname = proxy
+[2021-04-12 17:56:50.989] [info]  {
+  ip: '19216801',
+  port: '8080',
+  userProxy: 'userTest',
+  passwordProxy: '123',
+  activeProxy: true,
+  entityName: 'proxy',
+  _id: 'bMChHOyS10HJXtYj'
+}
+[2021-04-12 17:57:19.728] [info]  entidade....register.key
+[2021-04-12 17:58:50.347] [info]  -buscando registros- entityname = register.key
+[2021-04-12 17:58:50.365] [info]  {
+  registerKey: '123',
+  entityName: 'register.key',
+  _id: 'JCDVTYtJOU6GSDgz'
+}
+[2021-04-12 18:05:14.357] [info]  -buscando registros- entityname = proxy
+[2021-04-12 18:05:14.404] [info]  {
+  ip: '19216801',
+  port: '8080',
+  userProxy: 'userTest',
+  passwordProxy: '123',
+  activeProxy: true,
+  entityName: 'proxy',
+  _id: 'bMChHOyS10HJXtYj'
+}
+[2021-04-12 18:05:41.338] [info]  entidade....register.key
+[2021-04-12 18:06:25.872] [info]  -buscando registros- entityname = register.key
+[2021-04-12 18:06:25.917] [info]  {
+  registerKey: '123',
+  entityName: 'register.key',
+  _id: 'JCDVTYtJOU6GSDgz'
+}
+[2021-04-12 18:07:29.625] [info]  -buscando registros- entityname = proxy
+[2021-04-12 18:07:29.650] [info]  {
+  ip: '19216801',
+  port: '8080',
+  userProxy: 'userTest',
+  passwordProxy: '123',
+  activeProxy: true,
+  entityName: 'proxy',
+  _id: 'bMChHOyS10HJXtYj'
+}
+[2021-04-12 18:08:47.558] [info]  -buscando registros- entityname = proxy
+[2021-04-12 18:08:47.561] [info]  {
+  ip: '19216801',
+  port: '8080',
+  userProxy: 'userTest',
+  passwordProxy: '123',
+  activeProxy: true,
+  entityName: 'proxy',
+  _id: 'bMChHOyS10HJXtYj'
+}
+[2021-04-12 18:09:15.803] [info]  entidade....register.key
+[2021-04-12 18:09:34.072] [info]  -buscando registros- entityname = register.key
+[2021-04-12 18:09:34.105] [info]  {
+  registerKey: '123',
+  entityName: 'register.key',
+  _id: 'JCDVTYtJOU6GSDgz'
+}
+[2021-04-13 08:36:38.412] [info]  -buscando registros- entityname = register.key
+[2021-04-13 08:36:38.424] [info]  {
+  registerKey: '123',
+  entityName: 'register.key',
+  _id: 'JCDVTYtJOU6GSDgz'
+}
+[2021-04-13 08:39:40.456] [info]  -buscando registros- entityname = proxy
+[2021-04-13 08:39:40.457] [info]  {
+  ip: '19216801',
+  port: '8080',
+  userProxy: 'userTest',
+  passwordProxy: '123',
+  activeProxy: true,
+  entityName: 'proxy',
+  _id: 'bMChHOyS10HJXtYj'
+}
+[2021-04-13 09:10:05.883] [info]  -buscando registros- entityname = register.key
+[2021-04-13 09:10:05.886] [info]  {
+  registerKey: '123',
+  entityName: 'register.key',
+  _id: 'JCDVTYtJOU6GSDgz'
+}
+[2021-04-19 09:01:02.138] [info]  -buscando registros- entityname = register.key
+[2021-04-19 09:01:02.161] [info]  {
+  registerKey: '123',
+  entityName: 'register.key',
+  _id: 'JCDVTYtJOU6GSDgz'
+}
+[2021-04-19 09:01:14.005] [info]  -buscando registros- entityname = proxy
+[2021-04-19 09:01:14.006] [info]  {
+  ip: '19216801',
+  port: '8080',
+  userProxy: 'userTest',
+  passwordProxy: '123',
+  activeProxy: true,
+  entityName: 'proxy',
+  _id: 'bMChHOyS10HJXtYj'
+}
+[2021-04-19 09:01:19.443] [info]  -buscando registros- entityname = proxy
+[2021-04-19 09:01:19.444] [info]  {
+  ip: '19216801',
+  port: '8080',
+  userProxy: 'userTest',
+  passwordProxy: '123',
+  activeProxy: true,
+  entityName: 'proxy',
+  _id: 'bMChHOyS10HJXtYj'
+}
+[2021-04-19 09:05:39.045] [info]  -buscando registros- entityname = register.key
+[2021-04-19 09:05:39.057] [info]  {
+  registerKey: '123',
+  entityName: 'register.key',
+  _id: 'JCDVTYtJOU6GSDgz'
+}
+[2021-04-19 09:21:30.285] [info]  -buscando registros- entityname = register.key
+[2021-04-19 09:21:30.288] [info]  {
+  registerKey: '123',
+  entityName: 'register.key',
+  _id: 'JCDVTYtJOU6GSDgz'
+}
+[2021-04-19 09:36:53.522] [info]  -buscando registros- entityname = register.key
+[2021-04-19 09:36:53.531] [info]  {
+  registerKey: '123',
+  entityName: 'register.key',
+  _id: 'JCDVTYtJOU6GSDgz'
+}
+[2021-04-19 09:42:59.739] [info]  -buscando registros- entityname = register.key
+[2021-04-19 09:42:59.746] [info]  {
+  registerKey: '123',
+  entityName: 'register.key',
+  _id: 'JCDVTYtJOU6GSDgz'
+}
+[2021-04-19 09:47:50.445] [info]  -buscando registros- entityname = register.key
+[2021-04-19 09:47:50.451] [info]  {
+  registerKey: '123',
+  entityName: 'register.key',
+  _id: 'JCDVTYtJOU6GSDgz'
+}
+[2021-04-19 13:12:13.468] [info]  -buscando registros- entityname = register.key
+[2021-04-19 13:12:13.481] [info]  {
+  registerKey: '123',
+  entityName: 'register.key',
+  _id: 'JCDVTYtJOU6GSDgz'
+}
+[2021-04-19 13:28:24.570] [info]  -buscando registros- entityname = proxy
+[2021-04-19 13:28:24.572] [info]  {
+  ip: '19216801',
+  port: '8080',
+  userProxy: 'userTest',
+  passwordProxy: '123',
+  activeProxy: true,
+  entityName: 'proxy',
+  _id: 'bMChHOyS10HJXtYj'
+}
+[2021-04-22 16:56:33.715] [info]  -buscando registros- entityname = register.key
+[2021-04-22 16:56:33.752] [info]  {
+  registerKey: '123',
+  entityName: 'register.key',
+  _id: 'JCDVTYtJOU6GSDgz'
+}
+[2021-04-22 16:56:44.681] [info]  -buscando registros- entityname = proxy
+[2021-04-22 16:56:44.682] [info]  {
+  ip: '19216801',
+  port: '8080',
+  userProxy: 'userTest',
+  passwordProxy: '123',
+  activeProxy: true,
+  entityName: 'proxy',
+  _id: 'bMChHOyS10HJXtYj'
+}
+[2021-05-24 13:50:53.561] [info]  -buscando registros- entityname = register.key
+[2021-05-24 13:50:53.586] [info]  {
+  registerKey: '123',
+  entityName: 'register.key',
+  _id: 'JCDVTYtJOU6GSDgz'
+}
+[2021-05-24 13:51:48.418] [info]  -buscando registros- entityname = proxy
+[2021-05-24 13:51:48.419] [info]  {
+  ip: '19216801',
+  port: '8080',
+  userProxy: 'userTest',
+  passwordProxy: '123',
+  activeProxy: true,
+  entityName: 'proxy',
+  _id: 'bMChHOyS10HJXtYj'
+}
+[2021-05-24 14:17:02.522] [info]  -buscando registros- entityname = register.key
+[2021-05-24 14:17:02.525] [info]  {
+  registerKey: '123',
+  entityName: 'register.key',
+  _id: 'JCDVTYtJOU6GSDgz'
+}
+[2021-05-24 14:22:16.818] [info]  -buscando registros- entityname = proxy
+[2021-05-24 14:22:16.821] [info]  {
+  ip: '19216801',
+  port: '8080',
+  userProxy: 'userTest',
+  passwordProxy: '123',
+  activeProxy: true,
+  entityName: 'proxy',
+  _id: 'bMChHOyS10HJXtYj'
+}
+[2021-05-24 14:34:40.058] [info]  -buscando registros- entityname = register.key
+[2021-05-24 14:34:40.071] [info]  null
+[2021-05-24 14:35:03.372] [info]  ----inserindo registro----
+[2021-05-24 14:35:16.420] [info]  -buscando registros- entityname = proxy
+[2021-05-24 14:35:16.422] [info]  null
+[2021-05-24 14:35:17.880] [info]  Selecionou para usar proxy.
+[2021-05-24 14:35:19.366] [info]  Selecionou para usar proxy.
+[2021-05-31 13:16:42.637] [info]  -buscando registros- entityname = register.key
+[2021-05-31 13:16:42.654] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-01 13:39:04.227] [info]  -buscando registros- entityname = register.key
+[2021-06-01 13:39:04.252] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-01 13:45:09.429] [info]  -buscando registros- entityname = register.key
+[2021-06-01 13:45:09.435] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-01 13:46:22.488] [info]  -buscando registros- entityname = proxy
+[2021-06-01 13:46:22.489] [info]  null
+[2021-06-01 13:46:25.522] [info]  Selecionou para usar proxy.
+[2021-06-01 13:46:27.353] [info]  Selecionou para usar proxy.
+[2021-06-01 13:46:29.127] [info]  Selecionou para usar proxy.
+[2021-06-01 14:15:40.569] [info]  -buscando registros- entityname = register.key
+[2021-06-01 14:15:40.575] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-01 14:22:13.484] [info]  -buscando registros- entityname = register.key
+[2021-06-01 14:22:13.491] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-01 14:33:54.567] [info]  -buscando registros- entityname = register.key
+[2021-06-01 14:33:54.569] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-01 14:49:56.807] [info]  -buscando registros- entityname = register.key
+[2021-06-01 14:49:56.815] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-01 14:52:13.390] [info]  -buscando registros- entityname = register.key
+[2021-06-01 14:52:13.392] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-01 14:54:28.303] [info]  -buscando registros- entityname = register.key
+[2021-06-01 14:54:28.305] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-01 14:57:27.054] [info]  -buscando registros- entityname = register.key
+[2021-06-01 14:57:27.056] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-01 14:59:09.678] [info]  -buscando registros- entityname = register.key
+[2021-06-01 14:59:09.680] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-01 15:00:35.792] [info]  -buscando registros- entityname = register.key
+[2021-06-01 15:00:35.794] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-01 15:01:43.692] [info]  -buscando registros- entityname = register.key
+[2021-06-01 15:01:43.694] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-01 15:06:32.164] [info]  -buscando registros- entityname = register.key
+[2021-06-01 15:06:32.165] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-01 15:13:02.676] [info]  -buscando registros- entityname = register.key
+[2021-06-01 15:13:02.677] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-01 15:14:36.940] [info]  -buscando registros- entityname = register.key
+[2021-06-01 15:14:36.942] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-01 15:16:08.740] [info]  -buscando registros- entityname = register.key
+[2021-06-01 15:16:08.742] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-01 15:19:19.058] [info]  -buscando registros- entityname = register.key
+[2021-06-01 15:19:19.060] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-01 15:19:49.630] [info]  guid criado: c1af7f2e-691a-e433-38a4-d405fd12499f
+[2021-06-01 15:26:57.654] [info]  -buscando registros- entityname = register.key
+[2021-06-01 15:26:57.656] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-01 15:33:39.053] [info]  -buscando registros- entityname = register.key
+[2021-06-01 15:33:39.054] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-01 15:53:27.430] [info]  -buscando registros- entityname = register.key
+[2021-06-01 15:53:27.431] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-01 15:59:56.109] [info]  -buscando registros- entityname = register.key
+[2021-06-01 15:59:56.110] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-01 16:00:14.111] [info]  -buscando registros- entityname = proxy
+[2021-06-01 16:00:14.113] [info]  null
+[2021-06-01 16:01:35.919] [info]  -buscando registros- entityname = proxy
+[2021-06-01 16:01:35.920] [info]  null
+[2021-06-01 16:08:02.898] [info]  -buscando registros- entityname = register.key
+[2021-06-01 16:08:02.900] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-01 16:10:09.407] [info]  -buscando registros- entityname = register.key
+[2021-06-01 16:10:09.408] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-01 16:10:36.398] [info]  -buscando registros- entityname = proxy
+[2021-06-01 16:10:36.399] [info]  null
+[2021-06-01 16:19:39.684] [info]  -buscando registros- entityname = register.key
+[2021-06-01 16:19:39.691] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-01 16:24:41.376] [info]  -buscando registros- entityname = register.key
+[2021-06-01 16:24:41.383] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-01 16:24:52.908] [info]  -buscando registros- entityname = proxy
+[2021-06-01 16:24:52.909] [info]  null
+[2021-06-01 16:31:20.268] [info]  -buscando registros- entityname = proxy
+[2021-06-01 16:31:20.270] [info]  null
+[2021-06-01 16:31:46.153] [info]  -buscando registros- entityname = proxy
+[2021-06-01 16:31:46.154] [info]  null
+[2021-06-01 16:39:09.924] [info]  -buscando registros- entityname = register.key
+[2021-06-01 16:39:09.925] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-01 16:39:12.841] [info]  -buscando registros- entityname = proxy
+[2021-06-01 16:39:12.842] [info]  null
+[2021-06-01 16:43:23.908] [info]  -buscando registros- entityname = register.key
+[2021-06-01 16:43:23.910] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-01 16:43:26.214] [info]  -buscando registros- entityname = proxy
+[2021-06-01 16:43:26.215] [info]  null
+[2021-06-01 16:45:57.098] [info]  -buscando registros- entityname = register.key
+[2021-06-01 16:45:57.099] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-01 16:45:59.389] [info]  -buscando registros- entityname = proxy
+[2021-06-01 16:45:59.390] [info]  null
+[2021-06-01 16:47:34.438] [info]  -buscando registros- entityname = register.key
+[2021-06-01 16:47:34.440] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-01 16:47:36.740] [info]  -buscando registros- entityname = proxy
+[2021-06-01 16:47:36.741] [info]  null
+[2021-06-01 16:47:47.762] [info]  -buscando registros- entityname = proxy
+[2021-06-01 16:47:47.763] [info]  null
+[2021-06-01 16:49:31.239] [info]  -buscando registros- entityname = register.key
+[2021-06-01 16:49:31.241] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-01 16:49:33.977] [info]  -buscando registros- entityname = proxy
+[2021-06-01 16:49:33.978] [info]  null
+[2021-06-01 16:51:11.496] [info]  -buscando registros- entityname = proxy
+[2021-06-01 16:51:11.497] [info]  null
+[2021-06-01 16:53:36.503] [info]  -buscando registros- entityname = register.key
+[2021-06-01 16:53:36.505] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-01 16:53:43.471] [info]  -buscando registros- entityname = proxy
+[2021-06-01 16:53:43.472] [info]  null
+[2021-06-01 16:54:17.130] [info]  -buscando registros- entityname = proxy
+[2021-06-01 16:54:17.131] [info]  null
+[2021-06-01 17:09:38.428] [info]  -buscando registros- entityname = register.key
+[2021-06-01 17:09:38.440] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-01 17:09:42.403] [info]  -buscando registros- entityname = proxy
+[2021-06-01 17:09:42.404] [info]  null
+[2021-06-01 17:11:21.017] [info]  -buscando registros- entityname = register.key
+[2021-06-01 17:11:21.020] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-01 17:11:23.811] [info]  -buscando registros- entityname = proxy
+[2021-06-01 17:11:23.812] [info]  null
+[2021-06-01 17:12:36.784] [info]  -buscando registros- entityname = proxy
+[2021-06-01 17:12:36.785] [info]  null
+[2021-06-01 17:17:39.962] [info]  -buscando registros- entityname = register.key
+[2021-06-01 17:17:39.964] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-01 17:19:17.712] [info]  -buscando registros- entityname = register.key
+[2021-06-01 17:19:17.714] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-01 17:19:23.360] [info]  -buscando registros- entityname = proxy
+[2021-06-01 17:19:23.362] [info]  null
+[2021-06-01 17:21:40.249] [info]  -buscando registros- entityname = register.key
+[2021-06-01 17:21:40.250] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-01 17:22:34.264] [info]  -buscando registros- entityname = proxy
+[2021-06-01 17:22:34.266] [info]  null
+[2021-06-02 08:32:20.090] [info]  -buscando registros- entityname = register.key
+[2021-06-02 08:32:20.111] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-02 08:33:14.900] [info]  -buscando registros- entityname = proxy
+[2021-06-02 08:33:14.905] [info]  null
+[2021-06-02 08:34:28.430] [info]  -buscando registros- entityname = proxy
+[2021-06-02 08:34:28.432] [info]  null
+[2021-06-02 08:38:17.702] [info]  -buscando registros- entityname = register.key
+[2021-06-02 08:38:17.703] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-02 08:38:34.994] [info]  -buscando registros- entityname = proxy
+[2021-06-02 08:38:34.995] [info]  null
+[2021-06-02 08:45:52.743] [info]  -buscando registros- entityname = register.key
+[2021-06-02 08:45:52.747] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-02 09:04:34.727] [info]  -buscando registros- entityname = register.key
+[2021-06-02 09:04:34.729] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-02 09:04:46.477] [info]  -buscando registros- entityname = proxy
+[2021-06-02 09:04:46.478] [info]  null
+[2021-06-02 09:04:49.300] [info]  Selecionou para usar proxy.
+[2021-06-02 09:04:50.035] [info]  Selecionou para usar proxy.
+[2021-06-02 09:04:50.714] [info]  Selecionou para usar proxy.
+[2021-06-02 09:10:42.823] [info]  -buscando registros- entityname = register.key
+[2021-06-02 09:10:42.824] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-02 09:12:27.764] [info]  -buscando registros- entityname = register.key
+[2021-06-02 09:12:27.765] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-02 09:20:15.114] [info]  -buscando registros- entityname = register.key
+[2021-06-02 09:20:15.116] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-02 09:23:45.740] [info]  -buscando registros- entityname = register.key
+[2021-06-02 09:23:45.746] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-02 09:25:04.729] [info]  -buscando registros- entityname = proxy
+[2021-06-02 09:25:04.730] [info]  null
+[2021-06-02 09:25:23.848] [info]  Selecionou para usar proxy.
+[2021-06-02 09:25:24.752] [info]  Selecionou para usar proxy.
+[2021-06-02 09:25:25.329] [info]  Selecionou para usar proxy.
+[2021-06-02 09:25:26.047] [info]  Selecionou para usar proxy.
+[2021-06-02 09:25:27.335] [info]  Selecionou para usar proxy.
+[2021-06-02 09:25:30.077] [info]  Selecionou para usar proxy.
+[2021-06-02 09:30:23.804] [info]  -buscando registros- entityname = proxy
+[2021-06-02 09:30:23.807] [info]  null
+[2021-06-02 09:31:42.860] [info]  -buscando registros- entityname = proxy
+[2021-06-02 09:31:42.863] [info]  null
+[2021-06-02 09:31:44.759] [info]  Selecionou para usar proxy.
+[2021-06-02 09:31:49.310] [info]  Selecionou para usar proxy.
+[2021-06-02 09:33:28.917] [info]  -buscando registros- entityname = register.key
+[2021-06-02 09:33:28.918] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-02 09:33:31.599] [info]  -buscando registros- entityname = proxy
+[2021-06-02 09:33:31.602] [info]  null
+[2021-06-02 09:33:50.080] [info]  Selecionou para usar proxy.
+[2021-06-02 09:33:50.943] [info]  Selecionou para usar proxy.
+[2021-06-02 09:33:51.505] [info]  Selecionou para usar proxy.
+[2021-06-02 09:33:52.151] [info]  Selecionou para usar proxy.
+[2021-06-02 09:33:52.688] [info]  Selecionou para usar proxy.
+[2021-06-02 09:33:55.479] [info]  Selecionou para usar proxy.
+[2021-06-02 09:37:45.208] [info]  -buscando registros- entityname = register.key
+[2021-06-02 09:37:45.210] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-02 09:37:48.250] [info]  -buscando registros- entityname = proxy
+[2021-06-02 09:37:48.251] [info]  null
+[2021-06-02 09:37:51.440] [info]  Selecionou para usar proxy.
+[2021-06-02 09:37:52.112] [info]  Selecionou para usar proxy.
+[2021-06-02 09:37:52.711] [info]  Selecionou para usar proxy.
+[2021-06-02 09:37:53.343] [info]  Selecionou para usar proxy.
+[2021-06-02 09:37:54.192] [info]  Selecionou para usar proxy.
+[2021-06-02 09:37:54.598] [info]  Selecionou para usar proxy.
+[2021-06-02 09:37:55.071] [info]  Selecionou para usar proxy.
+[2021-06-02 09:37:55.575] [info]  Selecionou para usar proxy.
+[2021-06-02 09:37:56.149] [info]  Selecionou para usar proxy.
+[2021-06-02 09:37:56.750] [info]  Selecionou para usar proxy.
+[2021-06-02 09:38:03.503] [info]  Selecionou para usar proxy.
+[2021-06-02 09:38:04.071] [info]  Selecionou para usar proxy.
+[2021-06-02 09:39:03.141] [info]  -buscando registros- entityname = register.key
+[2021-06-02 09:39:03.142] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-02 09:39:05.635] [info]  -buscando registros- entityname = proxy
+[2021-06-02 09:39:05.636] [info]  null
+[2021-06-02 09:39:07.065] [info]  Selecionou para usar proxy.
+[2021-06-02 09:39:07.714] [info]  Selecionou para usar proxy.
+[2021-06-02 09:39:08.250] [info]  Selecionou para usar proxy.
+[2021-06-02 09:39:08.639] [info]  Selecionou para usar proxy.
+[2021-06-02 09:39:09.184] [info]  Selecionou para usar proxy.
+[2021-06-02 09:39:09.559] [info]  Selecionou para usar proxy.
+[2021-06-02 09:39:09.886] [info]  Selecionou para usar proxy.
+[2021-06-02 09:39:10.411] [info]  Selecionou para usar proxy.
+[2021-06-02 09:39:11.102] [info]  Selecionou para usar proxy.
+[2021-06-02 09:39:11.535] [info]  Selecionou para usar proxy.
+[2021-06-02 09:39:11.974] [info]  Selecionou para usar proxy.
+[2021-06-02 09:39:12.368] [info]  Selecionou para usar proxy.
+[2021-06-02 09:39:12.804] [info]  Selecionou para usar proxy.
+[2021-06-02 09:39:13.360] [info]  Selecionou para usar proxy.
+[2021-06-02 09:39:13.959] [info]  Selecionou para usar proxy.
+[2021-06-02 09:39:14.391] [info]  Selecionou para usar proxy.
+[2021-06-02 09:39:14.824] [info]  Selecionou para usar proxy.
+[2021-06-02 09:39:15.390] [info]  Selecionou para usar proxy.
+[2021-06-02 09:39:15.942] [info]  Selecionou para usar proxy.
+[2021-06-02 09:39:24.279] [info]  Selecionou para usar proxy.
+[2021-06-02 09:39:25.126] [info]  Selecionou para usar proxy.
+[2021-06-02 09:39:25.633] [info]  Selecionou para usar proxy.
+[2021-06-02 09:40:09.351] [info]  -buscando registros- entityname = register.key
+[2021-06-02 09:40:09.352] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-02 09:40:11.217] [info]  -buscando registros- entityname = proxy
+[2021-06-02 09:40:11.219] [info]  null
+[2021-06-02 09:40:12.161] [info]  Selecionou para usar proxy.
+[2021-06-02 09:40:14.166] [info]  Selecionou para usar proxy.
+[2021-06-02 09:40:16.126] [info]  Selecionou para usar proxy.
+[2021-06-02 09:40:17.039] [info]  Selecionou para usar proxy.
+[2021-06-02 09:40:40.215] [info]  -buscando registros- entityname = proxy
+[2021-06-02 09:40:40.216] [info]  null
+[2021-06-02 09:40:42.142] [info]  Selecionou para usar proxy.
+[2021-06-02 09:40:43.310] [info]  Selecionou para usar proxy.
+[2021-06-02 09:41:28.065] [info]  -buscando registros- entityname = proxy
+[2021-06-02 09:41:28.068] [info]  null
+[2021-06-02 09:46:58.557] [info]  -buscando registros- entityname = register.key
+[2021-06-02 09:46:58.558] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-02 09:54:39.672] [info]  -buscando registros- entityname = register.key
+[2021-06-02 09:54:39.673] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-02 09:55:04.491] [info]  -buscando registros- entityname = proxy
+[2021-06-02 09:55:04.493] [info]  null
+[2021-06-02 09:58:10.876] [info]  -buscando registros- entityname = register.key
+[2021-06-02 09:58:10.877] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-02 09:58:12.737] [info]  -buscando registros- entityname = proxy
+[2021-06-02 09:58:12.739] [info]  null
+[2021-06-02 09:59:06.286] [info]  -buscando registros- entityname = register.key
+[2021-06-02 09:59:06.287] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-02 09:59:08.380] [info]  -buscando registros- entityname = proxy
+[2021-06-02 09:59:08.381] [info]  null
+[2021-06-02 09:59:31.330] [info]  -buscando registros- entityname = proxy
+[2021-06-02 09:59:31.332] [info]  null
+[2021-06-02 10:02:01.272] [info]  -buscando registros- entityname = register.key
+[2021-06-02 10:02:01.276] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-02 10:02:28.714] [info]  -buscando registros- entityname = proxy
+[2021-06-02 10:02:28.716] [info]  null
+[2021-06-02 10:02:30.589] [info]  Selecionou para usar proxy.
+[2021-06-02 10:02:31.629] [info]  Selecionou para usar proxy.
+[2021-06-02 10:14:32.463] [info]  -buscando registros- entityname = register.key
+[2021-06-02 10:14:32.464] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-02 10:14:36.137] [info]  -buscando registros- entityname = proxy
+[2021-06-02 10:14:36.141] [info]  null
+[2021-06-02 10:14:58.862] [info]  -buscando registros- entityname = proxy
+[2021-06-02 10:14:58.863] [info]  null
+[2021-06-02 10:15:40.963] [info]  -buscando registros- entityname = register.key
+[2021-06-02 10:15:40.967] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-02 10:18:26.526] [info]  -buscando registros- entityname = register.key
+[2021-06-02 10:18:26.527] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-02 10:19:42.967] [info]  -buscando registros- entityname = proxy
+[2021-06-02 10:19:42.971] [info]  null
+[2021-06-02 10:29:13.883] [info]  -buscando registros- entityname = register.key
+[2021-06-02 10:29:13.884] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-02 10:34:33.528] [info]  -buscando registros- entityname = register.key
+[2021-06-02 10:34:33.529] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-02 10:36:06.865] [info]  -buscando registros- entityname = register.key
+[2021-06-02 10:36:06.866] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-02 10:37:40.170] [info]  -buscando registros- entityname = register.key
+[2021-06-02 10:37:40.171] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-02 10:39:07.967] [info]  -buscando registros- entityname = register.key
+[2021-06-02 10:39:07.968] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-02 10:40:47.999] [info]  -buscando registros- entityname = register.key
+[2021-06-02 10:40:48.001] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-02 10:42:05.172] [info]  -buscando registros- entityname = proxy
+[2021-06-02 10:42:05.173] [info]  null
+[2021-06-02 10:42:07.399] [info]  -buscando registros- entityname = proxy
+[2021-06-02 10:42:07.400] [info]  null
+[2021-06-02 10:57:02.240] [info]  -buscando registros- entityname = register.key
+[2021-06-02 10:57:02.243] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-02 10:57:15.848] [info]  -buscando registros- entityname = proxy
+[2021-06-02 10:57:15.850] [info]  null
+[2021-06-02 10:57:30.748] [info]  -buscando registros- entityname = proxy
+[2021-06-02 10:57:30.749] [info]  null
+[2021-06-02 11:01:06.848] [info]  -buscando registros- entityname = register.key
+[2021-06-02 11:01:06.850] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-02 11:02:29.810] [info]  -buscando registros- entityname = register.key
+[2021-06-02 11:02:29.812] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-02 11:03:16.236] [info]  -buscando registros- entityname = register.key
+[2021-06-02 11:03:16.237] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-02 11:04:17.606] [info]  -buscando registros- entityname = register.key
+[2021-06-02 11:04:17.607] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-02 11:05:25.502] [info]  -buscando registros- entityname = proxy
+[2021-06-02 11:05:25.503] [info]  null
+[2021-06-02 11:06:52.977] [info]  -buscando registros- entityname = register.key
+[2021-06-02 11:06:52.978] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-02 11:07:23.694] [info]  -buscando registros- entityname = register.key
+[2021-06-02 11:07:23.695] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-02 11:08:17.433] [info]  -buscando registros- entityname = register.key
+[2021-06-02 11:08:17.434] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-02 11:09:11.716] [info]  -buscando registros- entityname = register.key
+[2021-06-02 11:09:11.717] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-02 11:09:49.110] [info]  -buscando registros- entityname = register.key
+[2021-06-02 11:09:49.111] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-02 11:10:52.144] [info]  -buscando registros- entityname = register.key
+[2021-06-02 11:10:52.145] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-02 11:15:02.063] [info]  -buscando registros- entityname = register.key
+[2021-06-02 11:15:02.076] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-02 11:17:20.980] [info]  -buscando registros- entityname = register.key
+[2021-06-02 11:17:20.983] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-02 11:21:37.563] [info]  -buscando registros- entityname = register.key
+[2021-06-02 11:21:37.565] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-02 11:27:04.415] [info]  -buscando registros- entityname = proxy
+[2021-06-02 11:27:04.416] [info]  null
+[2021-06-02 11:35:47.321] [info]  -buscando registros- entityname = register.key
+[2021-06-02 11:35:47.322] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-02 11:36:40.397] [info]  -buscando registros- entityname = register.key
+[2021-06-02 11:36:40.399] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-02 11:37:25.771] [info]  -buscando registros- entityname = register.key
+[2021-06-02 11:37:25.772] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-02 11:38:46.472] [info]  -buscando registros- entityname = register.key
+[2021-06-02 11:38:46.473] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-02 11:39:35.464] [info]  -buscando registros- entityname = proxy
+[2021-06-02 11:39:35.466] [info]  null
+[2021-06-02 11:39:38.017] [info]  -buscando registros- entityname = proxy
+[2021-06-02 11:39:38.019] [info]  null
+[2021-06-02 11:42:13.325] [info]  -buscando registros- entityname = proxy
+[2021-06-02 11:42:13.326] [info]  null
+[2021-06-02 11:43:55.634] [info]  -buscando registros- entityname = register.key
+[2021-06-02 11:43:55.635] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-02 11:43:58.221] [info]  -buscando registros- entityname = proxy
+[2021-06-02 11:43:58.222] [info]  null
+[2021-06-02 11:45:10.219] [info]  -buscando registros- entityname = register.key
+[2021-06-02 11:45:10.220] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-02 11:45:13.664] [info]  -buscando registros- entityname = proxy
+[2021-06-02 11:45:13.666] [info]  null
+[2021-06-02 11:46:05.430] [info]  -buscando registros- entityname = proxy
+[2021-06-02 11:46:05.431] [info]  null
+[2021-06-02 13:08:18.342] [info]  -buscando registros- entityname = proxy
+[2021-06-02 13:08:18.343] [info]  null
+[2021-06-02 13:18:00.200] [info]  -buscando registros- entityname = proxy
+[2021-06-02 13:18:00.201] [info]  null
+[2021-06-02 13:27:19.749] [info]  -buscando registros- entityname = register.key
+[2021-06-02 13:27:19.750] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-02 13:28:57.787] [info]  -buscando registros- entityname = register.key
+[2021-06-02 13:28:57.788] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-02 13:36:10.778] [info]  -buscando registros- entityname = register.key
+[2021-06-02 13:36:10.780] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-02 13:40:09.561] [info]  -buscando registros- entityname = register.key
+[2021-06-02 13:40:09.578] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-02 13:51:17.816] [info]  -buscando registros- entityname = register.key
+[2021-06-02 13:51:17.823] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-02 13:54:44.742] [info]  -buscando registros- entityname = register.key
+[2021-06-02 13:54:44.749] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-02 13:57:29.151] [info]  -buscando registros- entityname = register.key
+[2021-06-02 13:57:29.158] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-02 14:02:11.951] [info]  -buscando registros- entityname = register.key
+[2021-06-02 14:02:12.009] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-02 14:10:28.524] [info]  -buscando registros- entityname = register.key
+[2021-06-02 14:10:28.529] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-02 14:16:34.096] [info]  -buscando registros- entityname = proxy
+[2021-06-02 14:16:34.098] [info]  null
+[2021-06-02 14:44:13.911] [info]  -buscando registros- entityname = proxy
+[2021-06-02 14:44:13.912] [info]  null
+[2021-06-02 14:47:54.807] [info]  -buscando registros- entityname = proxy
+[2021-06-02 14:47:54.809] [info]  null
+[2021-06-02 14:50:38.668] [info]  -buscando registros- entityname = proxy
+[2021-06-02 14:50:38.669] [info]  null
+[2021-06-02 14:52:38.396] [info]  -buscando registros- entityname = proxy
+[2021-06-02 14:52:38.397] [info]  null
+[2021-06-02 14:53:49.022] [info]  -buscando registros- entityname = proxy
+[2021-06-02 14:53:49.023] [info]  null
+[2021-06-02 14:59:24.011] [info]  -buscando registros- entityname = register.key
+[2021-06-02 14:59:24.012] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-02 15:18:29.526] [info]  -buscando registros- entityname = register.key
+[2021-06-02 15:18:29.528] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-02 15:20:21.684] [info]  -buscando registros- entityname = register.key
+[2021-06-02 15:20:21.685] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-02 15:21:31.102] [info]  -buscando registros- entityname = register.key
+[2021-06-02 15:21:31.104] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-02 15:22:16.546] [info]  -buscando registros- entityname = register.key
+[2021-06-02 15:22:16.548] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-02 15:22:56.360] [info]  -buscando registros- entityname = register.key
+[2021-06-02 15:22:56.362] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-02 15:50:13.396] [info]  -buscando registros- entityname = register.key
+[2021-06-02 15:50:13.398] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-02 15:51:19.394] [info]  -buscando registros- entityname = register.key
+[2021-06-02 15:51:19.395] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-02 15:52:44.615] [info]  -buscando registros- entityname = register.key
+[2021-06-02 15:52:44.617] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-02 15:55:05.967] [info]  -buscando registros- entityname = register.key
+[2021-06-02 15:55:05.968] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-02 15:55:42.277] [info]  -buscando registros- entityname = register.key
+[2021-06-02 15:55:42.278] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-02 15:56:25.319] [info]  -buscando registros- entityname = register.key
+[2021-06-02 15:56:25.321] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-02 15:56:59.329] [info]  -buscando registros- entityname = register.key
+[2021-06-02 15:56:59.330] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-02 15:58:04.138] [info]  -buscando registros- entityname = register.key
+[2021-06-02 15:58:04.139] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-02 16:00:27.535] [info]  -buscando registros- entityname = register.key
+[2021-06-02 16:00:27.537] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-02 16:04:59.803] [info]  -buscando registros- entityname = register.key
+[2021-06-02 16:04:59.804] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-02 16:05:21.071] [info]  -buscando registros- entityname = proxy
+[2021-06-02 16:05:21.072] [info]  null
+[2021-06-02 16:06:42.687] [info]  -buscando registros- entityname = register.key
+[2021-06-02 16:06:42.688] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-02 16:06:44.420] [info]  -buscando registros- entityname = proxy
+[2021-06-02 16:06:44.421] [info]  null
+[2021-06-02 16:08:15.420] [info]  -buscando registros- entityname = register.key
+[2021-06-02 16:08:15.421] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-02 16:08:17.362] [info]  -buscando registros- entityname = proxy
+[2021-06-02 16:08:17.363] [info]  null
+[2021-06-02 16:09:13.341] [info]  -buscando registros- entityname = register.key
+[2021-06-02 16:09:13.342] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-02 16:09:15.279] [info]  -buscando registros- entityname = proxy
+[2021-06-02 16:09:15.281] [info]  null
+[2021-06-02 16:11:02.887] [info]  -buscando registros- entityname = register.key
+[2021-06-02 16:11:02.889] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-02 16:11:04.791] [info]  -buscando registros- entityname = proxy
+[2021-06-02 16:11:04.792] [info]  null
+[2021-06-02 16:12:43.626] [info]  -buscando registros- entityname = register.key
+[2021-06-02 16:12:43.627] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-02 16:18:26.286] [info]  -buscando registros- entityname = register.key
+[2021-06-02 16:18:26.295] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-02 16:21:40.673] [info]  -buscando registros- entityname = register.key
+[2021-06-02 16:21:40.681] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-02 16:36:02.829] [info]  -buscando registros- entityname = register.key
+[2021-06-02 16:36:02.836] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-02 16:36:40.090] [info]  -buscando registros- entityname = proxy
+[2021-06-02 16:36:40.092] [info]  null
+[2021-06-02 16:39:38.967] [info]  -buscando registros- entityname = register.key
+[2021-06-02 16:39:38.968] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-02 16:46:06.667] [info]  -buscando registros- entityname = register.key
+[2021-06-02 16:46:06.674] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-02 16:46:49.830] [info]  -buscando registros- entityname = proxy
+[2021-06-02 16:46:49.831] [info]  null
+[2021-06-02 16:47:37.211] [info]  -buscando registros- entityname = proxy
+[2021-06-02 16:47:37.215] [info]  null
+[2021-06-02 16:50:40.991] [info]  -buscando registros- entityname = register.key
+[2021-06-02 16:50:40.993] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-02 16:52:35.899] [info]  -buscando registros- entityname = register.key
+[2021-06-02 16:52:35.901] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-02 16:55:21.688] [info]  -buscando registros- entityname = register.key
+[2021-06-02 16:55:21.690] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-02 16:58:00.642] [info]  -buscando registros- entityname = proxy
+[2021-06-02 16:58:00.643] [info]  null
+[2021-06-02 17:01:59.541] [info]  -buscando registros- entityname = register.key
+[2021-06-02 17:01:59.542] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-02 17:02:28.577] [info]  -buscando registros- entityname = proxy
+[2021-06-02 17:02:28.581] [info]  null
+[2021-06-02 17:02:41.316] [info]  -buscando registros- entityname = proxy
+[2021-06-02 17:02:41.317] [info]  null
+[2021-06-02 17:03:56.283] [info]  -buscando registros- entityname = proxy
+[2021-06-02 17:03:56.287] [info]  null
+[2021-06-02 17:04:18.986] [info]  -buscando registros- entityname = proxy
+[2021-06-02 17:04:18.987] [info]  null
+[2021-06-02 17:10:09.334] [info]  -buscando registros- entityname = register.key
+[2021-06-02 17:10:09.336] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-02 17:10:11.533] [info]  -buscando registros- entityname = proxy
+[2021-06-02 17:10:11.534] [info]  null
+[2021-06-02 17:12:23.280] [info]  -buscando registros- entityname = register.key
+[2021-06-02 17:12:23.281] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-02 17:12:26.662] [info]  -buscando registros- entityname = proxy
+[2021-06-02 17:12:26.663] [info]  null
+[2021-06-02 17:17:43.514] [info]  -buscando registros- entityname = register.key
+[2021-06-02 17:17:43.516] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-02 17:17:54.724] [info]  -buscando registros- entityname = proxy
+[2021-06-02 17:17:54.728] [info]  null
+[2021-06-04 13:57:53.628] [info]  -buscando registros- entityname = register.key
+[2021-06-04 13:57:53.636] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-04 13:59:54.166] [info]  -buscando registros- entityname = proxy
+[2021-06-04 13:59:54.167] [info]  null
+[2021-06-04 15:23:39.996] [info]  -buscando registros- entityname = register.key
+[2021-06-04 15:23:40.009] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-04 15:23:45.635] [info]  -buscando registros- entityname = proxy
+[2021-06-04 15:23:45.637] [info]  null
+[2021-06-04 15:24:53.583] [info]  -buscando registros- entityname = register.key
+[2021-06-04 15:24:53.584] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-04 15:24:56.677] [info]  -buscando registros- entityname = proxy
+[2021-06-04 15:24:56.678] [info]  null
+[2021-06-04 15:25:05.883] [info]  -buscando registros- entityname = register.key
+[2021-06-04 15:25:05.884] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-04 15:26:41.350] [info]  -buscando registros- entityname = register.key
+[2021-06-04 15:26:41.351] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-04 15:26:44.711] [info]  -buscando registros- entityname = proxy
+[2021-06-04 15:26:44.712] [info]  null
+[2021-06-04 15:26:51.370] [info]  -buscando registros- entityname = register.key
+[2021-06-04 15:26:51.371] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-04 15:27:56.412] [info]  -buscando registros- entityname = register.key
+[2021-06-04 15:27:56.413] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-04 15:27:59.583] [info]  -buscando registros- entityname = proxy
+[2021-06-04 15:27:59.584] [info]  null
+[2021-06-04 15:28:03.224] [info]  -buscando registros- entityname = register.key
+[2021-06-04 15:28:03.225] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-04 15:29:35.974] [info]  -buscando registros- entityname = register.key
+[2021-06-04 15:29:35.976] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-04 15:29:40.550] [info]  -buscando registros- entityname = proxy
+[2021-06-04 15:29:40.551] [info]  null
+[2021-06-04 15:29:49.792] [info]  -buscando registros- entityname = register.key
+[2021-06-04 15:29:49.793] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-04 15:36:14.748] [info]  -buscando registros- entityname = register.key
+[2021-06-04 15:36:14.749] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-04 15:36:21.516] [info]  -buscando registros- entityname = proxy
+[2021-06-04 15:36:21.517] [info]  null
+[2021-06-04 15:37:07.231] [info]  -buscando registros- entityname = register.key
+[2021-06-04 15:37:07.233] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-04 15:47:06.627] [info]  -buscando registros- entityname = register.key
+[2021-06-04 15:47:06.628] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-04 15:47:10.704] [info]  -buscando registros- entityname = proxy
+[2021-06-04 15:47:10.705] [info]  null
+[2021-06-04 15:47:22.671] [info]  -buscando registros- entityname = register.key
+[2021-06-04 15:47:22.672] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-04 15:53:30.117] [info]  -buscando registros- entityname = register.key
+[2021-06-04 15:53:30.119] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-04 16:03:02.478] [info]  -buscando registros- entityname = register.key
+[2021-06-04 16:03:02.482] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-04 16:03:09.652] [info]  -buscando registros- entityname = proxy
+[2021-06-04 16:03:09.653] [info]  null
+[2021-06-04 16:14:59.843] [info]  -buscando registros- entityname = register.key
+[2021-06-04 16:14:59.845] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-04 16:15:02.370] [info]  -buscando registros- entityname = proxy
+[2021-06-04 16:15:02.371] [info]  null
+[2021-06-04 16:19:04.387] [info]  -buscando registros- entityname = proxy
+[2021-06-04 16:19:04.389] [info]  null
+[2021-06-04 16:20:29.767] [info]  -buscando registros- entityname = register.key
+[2021-06-04 16:20:29.769] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-04 16:20:31.846] [info]  -buscando registros- entityname = proxy
+[2021-06-04 16:20:31.848] [info]  null
+[2021-06-04 16:28:58.481] [info]  -buscando registros- entityname = register.key
+[2021-06-04 16:28:58.483] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-04 16:29:01.155] [info]  -buscando registros- entityname = proxy
+[2021-06-04 16:29:01.157] [info]  null
+[2021-06-04 16:31:49.935] [info]  -buscando registros- entityname = register.key
+[2021-06-04 16:31:49.936] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-04 16:31:54.639] [info]  -buscando registros- entityname = proxy
+[2021-06-04 16:31:54.641] [info]  null
+[2021-06-04 16:32:26.466] [info]  -ATUALIZANDO REGISTRO-
+[2021-06-04 16:32:55.642] [info]  -buscando registros- entityname = proxy
+[2021-06-04 16:32:55.643] [info]  null
+[2021-06-04 16:35:19.381] [info]  -buscando registros- entityname = register.key
+[2021-06-04 16:35:19.382] [info]  {
+  registerKey: '123132',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-04 16:35:23.956] [info]  -buscando registros- entityname = proxy
+[2021-06-04 16:35:23.958] [info]  null
+[2021-06-04 16:35:33.372] [info]  -ATUALIZANDO REGISTRO-
+[2021-06-04 16:37:18.314] [info]  -buscando registros- entityname = register.key
+[2021-06-04 16:37:18.315] [info]  {
+  registerKey: '123123',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-04 16:37:24.840] [info]  -buscando registros- entityname = proxy
+[2021-06-04 16:37:24.842] [info]  null
+[2021-06-04 16:38:13.985] [info]  -buscando registros- entityname = register.key
+[2021-06-04 16:38:13.986] [info]  {
+  registerKey: '123123',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-04 16:38:16.837] [info]  -buscando registros- entityname = proxy
+[2021-06-04 16:38:16.838] [info]  null
+[2021-06-04 16:39:51.237] [info]  -buscando registros- entityname = register.key
+[2021-06-04 16:39:51.238] [info]  {
+  registerKey: '123123',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-04 16:39:54.169] [info]  -buscando registros- entityname = proxy
+[2021-06-04 16:39:54.170] [info]  null
+[2021-06-04 16:45:10.012] [info]  -buscando registros- entityname = register.key
+[2021-06-04 16:45:10.013] [info]  {
+  registerKey: '123123',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-04 16:45:11.838] [info]  -buscando registros- entityname = proxy
+[2021-06-04 16:45:11.841] [info]  null
+[2021-06-04 16:45:50.290] [info]  -ATUALIZANDO REGISTRO-
+[2021-06-04 16:46:54.368] [info]  -buscando registros- entityname = register.key
+[2021-06-04 16:46:54.370] [info]  {
+  registerKey: '123',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-04 16:46:57.999] [info]  -buscando registros- entityname = proxy
+[2021-06-04 16:46:58.000] [info]  null
+[2021-06-04 16:56:14.115] [info]  -buscando registros- entityname = register.key
+[2021-06-04 16:56:14.116] [info]  {
+  registerKey: '123',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-04 16:56:17.004] [info]  -buscando registros- entityname = proxy
+[2021-06-04 16:56:17.005] [info]  null
+[2021-06-04 16:56:21.929] [info]  -ATUALIZANDO REGISTRO-
+[2021-06-04 16:57:06.519] [info]  -buscando registros- entityname = register.key
+[2021-06-04 16:57:06.520] [info]  {
+  registerKey: '12',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-04 16:57:08.028] [info]  -buscando registros- entityname = proxy
+[2021-06-04 16:57:08.030] [info]  null
+[2021-06-04 16:57:11.825] [info]  -ATUALIZANDO REGISTRO-
+[2021-06-04 16:58:17.541] [info]  -buscando registros- entityname = proxy
+[2021-06-04 16:58:17.542] [info]  null
+[2021-06-04 17:02:04.125] [info]  -buscando registros- entityname = register.key
+[2021-06-04 17:02:04.127] [info]  {
+  registerKey: '12',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-04 17:02:05.735] [info]  -buscando registros- entityname = proxy
+[2021-06-04 17:02:05.736] [info]  null
+[2021-06-04 17:02:44.292] [info]  -ATUALIZANDO REGISTRO-
+[2021-06-04 17:03:51.101] [info]  -buscando registros- entityname = register.key
+[2021-06-04 17:03:51.103] [info]  {
+  registerKey: '123123',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-04 17:03:58.939] [info]  -buscando registros- entityname = proxy
+[2021-06-04 17:03:58.940] [info]  null
+[2021-06-07 08:50:11.769] [info]  -buscando registros- entityname = register.key
+[2021-06-07 08:50:11.953] [info]  {
+  registerKey: '123123',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-07 08:50:46.455] [info]  -buscando registros- entityname = proxy
+[2021-06-07 08:50:46.457] [info]  null
+[2021-06-07 08:51:30.010] [info]  -buscando registros- entityname = proxy
+[2021-06-07 08:51:30.011] [info]  null
+[2021-06-07 08:51:54.976] [info]  -buscando registros- entityname = proxy
+[2021-06-07 08:51:54.978] [info]  null
+[2021-06-07 08:54:01.787] [info]  -buscando registros- entityname = register.key
+[2021-06-07 08:54:01.788] [info]  {
+  registerKey: '123123',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-07 08:54:05.798] [info]  -buscando registros- entityname = proxy
+[2021-06-07 08:54:05.799] [info]  null
+[2021-06-07 08:59:02.322] [info]  -buscando registros- entityname = register.key
+[2021-06-07 08:59:02.324] [info]  {
+  registerKey: '123123',
+  entityName: 'register.key',
+  _id: 'rQQ2P6lDalNJl5eQ'
+}
+[2021-06-07 09:06:06.138] [info]  -buscando registros- entityname = proxy
+[2021-06-07 09:06:06.139] [info]  null
+[2021-06-07 09:38:36.049] [info]  -buscando registros- entityname = proxy
+[2021-06-07 09:38:36.050] [info]  null

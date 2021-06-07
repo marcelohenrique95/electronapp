@@ -1,0 +1,70 @@
+<app-card cardTitle="Importar arquivo" [options]="false">
+    <form (ngSubmit)="sendFile()">
+      <div class="col-sm-12">
+        <div class="form-row">
+          <div class="form-group col-md-3">
+            <label for="inputFuel">Remetente</label>
+            <select class="mb-3 form-control" formControlName="inputSender" (change)="changeSender($event)">
+              <option value="0">Todos</option>
+              <option value="1">LXRED1</option>
+              <option value="2">LXRED2</option>
+              <option value="3">ED0201</option>
+              <option value="4">LXVNRS</option>
+            </select>
+          </div>
+          <div class="form-group col-md-1"></div>
+          <div class="form-group col-md-3">
+            <label for="inputFuel">Tipo de arquivo</label>
+            <select class="mb-3 form-control" formControlName="inputTypeFile" (change)="changeTypeFile($event)">
+              <option value="0">EDIFACT</option>
+              <option value="1">Compactado</option>
+              <option value="2">Binario</option>
+              <option value="3">Texto</option>
+              <option value="4">.XLSX</option>
+            </select>
+          </div>
+          <div class="form-group col-md-1"></div>
+          <div class="form-group col-md-3">
+            <label for="customFile">Adicionar arquivo</label>
+            <div class="custom-file">
+              <input type="file" class="custom-file-input" (change)="uploadFile($event)" id="customFile"
+                formControlName="inputFile" accept=".jpg,.png" />
+              <label class="custom-file-label" for="customFile">procurar...</label>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-12">
+        <div class="form-row">
+          <div class="form-group col-md-3">
+            <label for="inputFuel">Destinatário</label>
+            <select class="mb-3 form-control" formControlName="inputRecipient" (change)="changeRecipient($event)">
+              <option value="0">Todos</option>
+              <option value="1">LXRED1</option>
+              <option value="2">LXRED2</option>
+              <option value="3">ED0201</option>
+              <option value="4">LXVNRS</option>
+            </select>
+          </div>
+
+          <div class="form-group col-md-1"></div>
+          <div class="form-group col-md-3">
+            <label for="inputTitle">Referência</label>
+            <input type="text" class="form-control" id="InputReference" formControlName="inputReference" />
+          </div>
+        </div>
+      </div>
+      <div style="text-align: center;">
+        <button type="submit" style="text-align: center;" class="btn btn-success" id="sendFile">
+          ENVIAR ARQUIVO
+        </button>
+      </div>
+      <div class="row" style="text-align: center;" *ngIf="showMsg">
+        <div class="col-xs-12">
+          <p class="alert alert-success">
+            <strong>Arquivo enviado com sucesso!</strong>
+          </p>
+        </div>
+      </div>
+    </form>
+</app-card>

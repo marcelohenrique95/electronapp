@@ -1,0 +1,5 @@
+
+appId: com.update.electron
+publish:
+  provider: github
+  token: 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

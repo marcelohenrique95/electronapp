@@ -1,0 +1,64 @@
+<div class="row">
+  <div class="col-sm-12">
+    <app-card cardTitle="Rastreabilidade" [options]="false">
+      <form action="javascript:" class="form-inline" (ngSubmit)="search()">
+        <div class="form-group col-md-3">
+          <label for="inputDateInicial">De:</label>
+          <input type="date" id="inputDateInicial" class="form-control mx-sm-2">
+        </div>
+        <div class="form-group col-md-3">
+          <small id="textAte" class="text-muted">Até:</small>
+          <input type="date" id="inputDateFinal" class="form-control mx-sm-2">
+        </div>
+        <div class="form-group col-md-3">
+          <small id="textCaixapostal" class="text-muted">Caixa Postal:</small>
+          <select class="form-control" id="selectCaixaPostal">
+            <option></option>
+            <option>231231</option>
+            <option>312312</option>
+            <option>412315</option>
+            <option>512312</option>
+          </select>
+        </div>
+        <div class="form-group col-md-3">
+          <button type="submit" style="right: 90px;" class="btn btn-danger"><i>Pesquisar</i></button>
+        </div>
+      </form>
+    </app-card>
+  </div>
+</div>
+<br><br>
+<app-card cardTitle="Resultado da consulta" [options]="false">
+  <div style="text-align: right;" *ngIf="resultSearch">
+    <small style="right: 110px;" id="textExport" class="text-muted">Exportar</small>
+    <button class="btn-sm btn-icon btn-dark"><i class="feather icon-download" (click)="exportFile()"></i></button>
+  </div>
+  <div class="table-responsive" *ngIf="resultSearch">
+    <table class="table table-hover">
+      <thead style="background: rgb(238, 4, 4);">
+        <tr>
+          <th>Destinatário</th>
+          <th>Arq.Entrada</th>
+          <th>Enviado</th>
+          <th>Recebidos</th>
+          <th>Arq.saída</th>
+          <th>Referência</th>
+          <th>Tipo</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <th></th>
+        </tr>
+      </tbody>
+    </table>
+    <pagination-controls (pageChange)="paginaAtual = $event" previousLabel="Anterior" style="text-align: center;"
+      nextLabel="Próximo"></pagination-controls>
+  </div>
+</app-card>

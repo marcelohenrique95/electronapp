@@ -1,0 +1,53 @@
+<app-card cardTitle="Pesquisar arquivos recebidos" [options]="false" blockClass="table-border-style" >
+    <div class="col-sm-12">
+      <form action="javascript:" class="form-inline" (ngSubmit)="search()">
+        <div class="form-group col-md-3">
+          <small for="inputDateStart" class="text-muted">De:</small>
+          <input type="date" id="inputDateStart" class="form-control mx-sm-2" formControlName="inputDateStart">
+        </div>
+        <div class="form-group col-md-3">
+          <small for="inputDateEnd" class="text-muted">Até:</small>
+          <input type="date" id="inputDateEnd" class="form-control mx-sm-2" formControlName="inputDateEnd">
+        </div>
+        <div class="form-group col-md-3">
+          <input type="text" class="form-control" id="InputReference" placeholder="Referência" formControlName="inputReference" />
+        </div>
+        <div class="form-group col-md-3">
+          <button type="submit" style="right: 90px;" class="btn btn-danger"><i>Pesquisar</i></button>
+        </div>
+      </form>
+    </div>
+    <br><br>
+  <div class="table-responsive">
+    <table class="table table-hover">
+      <thead >
+      <tr style="background: rgb(238, 4, 4);">
+
+        <th><input class="form-check-input" type="checkbox" (change)="selectAll()" [checked]="selectedAll"><label>Tudo</label></th>
+        <th>Arquivo original</th>
+        <th>Arquivo recebido</th>
+        <th>Tipo</th>
+        <th>Remetente</th>
+        <th>Tamanho</th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr>
+
+        <td><div class="form-check" *ngFor="let n of names">
+          <input class="form-check-input" type="checkbox" value="{{n.name}}" [(ngModel)]="n.selected" (change)="checkIfAllSelected()"></div></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+
+      </tr>
+      </tbody>
+    </table>
+    <div style="text-align: center;">
+      <button type="submit" style="right: 50px;"  class="btn btn-danger" [routerLink]="['/register-client']"><i class="feather icon-download-cloud"></i>Baixar</button>
+    </div>
+    <pagination-controls (pageChange)="paginaAtual = $event" previousLabel="Anterior" style="text-align: center;" nextLabel="Próximo"></pagination-controls>
+  </div>
+</app-card>
